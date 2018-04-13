@@ -2,3 +2,4 @@
 
 Misc utility classes for Cocoa.
 
+NSDataGZipAdditions contains code for cmopressing & decompressing NSData using deflate(not gzip) algorithm.
